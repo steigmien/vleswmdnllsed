@@ -1,0 +1,14 @@
+﻿{
+    "name": "vleswmdnllsed",
+    "description": "vleswmdnllsed",
+    "logo":"vleswmdnllsed",
+    "keywords": ["vleswmdnllsed"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/steigmien/vleswmdnllsed",
+    "stack": "container"
+}
